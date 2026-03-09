@@ -98,20 +98,17 @@ Tech: Node.js, Puppeteer / Playwright, Express, Database integration
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
-## Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyan2309&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyan2309&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyan2309&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyan2309&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyan2309&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyan2309&theme=react-dark&area=true)
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Satyan2309/Satyan2309/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Satyan2309/Satyan2309/output/github-contribution-grid-snake.svg)
 
 ---
 
