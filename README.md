@@ -98,16 +98,6 @@ Tech: Node.js, Puppeteer / Playwright, Express, Database integration
 
 ---
 
-## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Satyan2309&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Satyan2309&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyan2309&theme=react-dark&area=true)
-
----
-
 # 🏗 Engineering Interests
 
 - Backend system architecture
