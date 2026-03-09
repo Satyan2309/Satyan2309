@@ -98,16 +98,6 @@ Tech: Node.js, Puppeteer / Playwright, Express, Database integration
 
 ---
 
-## 🔷 SMARTCITY360
-Predictive analytics platform for urban planning & sustainability.
-
-- Data modeling
-- Forecasting algorithms
-- Environmental data analysis
-- Dashboard visualization
-
----
-
 # 📈 GitHub Analytics
 
 ## Contribution Graph
@@ -118,6 +108,10 @@ Predictive analytics platform for urban planning & sustainability.
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyan2309&layout=compact&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Satyan2309/Satyan2309/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
