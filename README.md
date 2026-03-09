@@ -110,7 +110,7 @@ Tech: Node.js, Puppeteer / Playwright, Express, Database integration
 
 # 📫 Contact
 
-📧 Email: satyan2337.com  
+📧 Email: satyan2337@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/satyan-sinha-b6ab3a262/
 
 ---
