@@ -100,9 +100,9 @@ Tech: Node.js, Puppeteer / Playwright, Express, Database integration
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyan2309&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyan2309&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyan2309&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyan2309&layout=compact&theme=transparent&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyan2309&theme=react-dark&area=true)
 
